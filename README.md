@@ -11,3 +11,8 @@ Interactive web applications built with Python and Streamlit.
 ## 🛠️ Tech Stack
 - Python
 - Streamlit
+## 🌐 Live Demos
+- [Calculator App]
+- [Banking System]
+- [Contact Manager]
+- [Todo List]
